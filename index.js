@@ -56,7 +56,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer
-    .Prompt(questions)
+    .prompt(questions)
     .then((answers) =>{
         const readmeContent = generateMarkdown(answers);
 
