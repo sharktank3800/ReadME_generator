@@ -45,6 +45,18 @@ const questions = [
         type: "input",
         name: "tests",
         message: "Provide test instructions:"
+    },
+
+    {
+        type: "input",
+        name: "Questions",
+        message: "What is your Github username:"
+    },
+
+    {
+        type: "input",
+        name: "Questions2",
+        message: "What is your email address:"
     }
 ];
 
