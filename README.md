@@ -1,10 +1,10 @@
-# undefined
+# 
 
-  
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
   ## Description
 
-  A readme generator is a tool that automates the creation of project documentation by prompting users with question and generating a structured readme file
+  
 
   ## Table of contents
 
@@ -21,7 +21,10 @@
 
   
 
+  ## License
   
+    ## License
+    This project is licensed under the [MIT License]([License](LICENSE))
 
   ## Contributing
 

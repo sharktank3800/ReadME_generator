@@ -35,6 +35,13 @@ const questions = [
     },
 
     {
+        type: "list",
+        name: "license",
+        message: "choose a license for your project:",
+        choices: ["MIT", "Apache 2.0", "GPL 3.0", "None"]
+    },
+
+    {
         type: "input",
         name: "tests",
         message: "Provide test instructions:"

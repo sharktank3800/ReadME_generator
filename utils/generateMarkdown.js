@@ -55,6 +55,7 @@ function generateMarkdown(data) {
 
   ${data.Usage}
 
+  ## License
   ${licenseSection}
 
   ## Contributing
